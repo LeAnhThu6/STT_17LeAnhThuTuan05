@@ -69,7 +69,6 @@ const Screen02 = (props) => {
             navigate("Screen01", {
               color,
             });
-            console.log(color);
           }}
         >
           <Text
